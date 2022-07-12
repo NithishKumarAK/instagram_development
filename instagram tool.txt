@@ -7,3 +7,5 @@ instagram developmemt
 3.enter your phonenumber
 
 4.click the login button
+
+5.Add profile picture
