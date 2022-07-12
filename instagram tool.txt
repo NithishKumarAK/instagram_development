@@ -1,0 +1,9 @@
+instagram developmemt 
+
+1.create an username 
+
+2.create an password
+
+3.enter your phonenumber
+
+4.click the login button
