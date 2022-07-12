@@ -9,3 +9,7 @@ instagram developmemt
 4.click the login button
 
 5.Add profile picture
+
+6.Add Audio features
+
+7.Add video features
